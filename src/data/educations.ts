@@ -1,0 +1,66 @@
+const educations = [
+  {
+    id: 1,
+    title: 'Análise e Desenvolvimento de Sistemas',
+    subTitle: 'Universidade Cruzeiro do Sul',
+    status: 'Cursando',
+    level: 'Superior',
+    link: 'https://www.cruzeirodosul.edu.br/',
+    description: 'Superior de Análise e Desenvolvimento de Sistemas. ',
+    logo: '/education/logos/cruzeiro-do-sul.svg',
+  },
+  {
+    id: 2,
+    title: 'React.Js e Next.Js',
+    subTitle: 'Alura',
+    status: 'Planejamento',
+    level: 'Profissionalizante',
+    link: 'https://www.alura.com.br/formacao-react-javascript?srsltid=AfmBOorqzBQWWMjtjcribOZ098v7JwWvlBI4qkp0_ZNYH0S6OAV87AXC',
+    description: 'Aprenda a criar interfaces do usuário com React, um dos frameworks JavaScript mais utilizados, e desenvolva uma aplicação do zero ao deploy',
+    logo: '/education/logos/alura.svg',
+  },
+  {
+    id: 3,
+    title: 'JavaScript e TypeScript',
+    subTitle: 'Alura',
+    status: 'Andamento',
+    level: 'Profissionalizante',
+    link: 'https://www.alura.com.br/formacao-react-ts',
+    description: 'Da programação funcional até os recursos avançados do JavaScript ES6 e do TypeScript.',
+    logo: '/education/logos/alura.svg',
+  },
+  {
+    id: 4,
+    title: 'Git e GitHub',
+    subTitle: 'Alura',
+    status: 'Completo',
+    level: 'Profissionalizante',
+    link: 'https://www.alura.com.br/curso-online-git-github-dominando-controle-versao-codigo',
+    description: 'dominando controle de versão de código',
+    logo: '/education/logos/alura.svg',
+  },
+  {
+    id: 5,
+    title: 'Formação A partir do zero: iniciante em programação',
+    subTitle: 'Alura',
+    status: 'Completo',
+    level: 'Profissionalizante',
+    link: 'https://www.alura.com.br/formacao-programacao',
+    description: 'O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.',
+    logo: '/education/logos/alura.svg',
+  },
+  {
+    id: 6,
+    title: 'Conectar',
+    subTitle: 'Rocketseat',
+    status: 'Completo',
+    level: 'Profissionalizante',
+    link: 'https://rocketseat.com.br/',
+    description: 'Conceitos fundamentais da programação (Hadware, software, firmware, drivers pensamento lógico e sistemas operacionais). ',
+    logo: '/education/logos/alura.svg',
+  },
+  
+
+]
+
+export default educations
