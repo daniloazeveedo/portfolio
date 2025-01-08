@@ -21,7 +21,7 @@ Meu portfólio criado com o objetivo de mostrar meus projetos.
 
 ## 🚀 Deploy
 
- [evander.com.br](https://www.evander.com.br)
+ [danilo.dev.com.br](https://www.danilo.dev.com.br)
 
 ## 🔥 Tecnologias
 
@@ -43,10 +43,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/EvanderInacio">
-        <img src="https://avatars.githubusercontent.com/u/72362299?s=96&v=4" width="100px;" /><br>
+      <a href="https://github.com/daniloazeveedo">
+        <img src="https://avatars.githubusercontent.com/u/62964593?v=4" width="100px;" /><br>
         <sub>
-          <b>Evander Inácio</b>
+          <b>Danilo Azevedo</b>
         </sub>
       </a>
     </td>
@@ -55,4 +55,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
+  
