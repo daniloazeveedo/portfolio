@@ -348,32 +348,32 @@ const projects = [
 
   {
     id: 5,
-    url: 'podcastr',
-    banner: '/projects/podcastr/podcastr-home.png',
-    img: '/projects/podcastr/podcastr-home.png',
-    title: 'Podcastr',
+    url: 'Habits',
+    banner: '/projects/podcastr/preview.jpg',
+    img: '/projects/podcastr/preview.jpg',
+    title: 'Habits',
     type: 'Website',
     icon: '/projects/podcastr/icon.svg',
-    github: 'https://github.com/EvanderInacio/Podcastr',
-    web: 'https://podcastr-evander.vercel.app/',
+    github: 'https://github.com/daniloazeveedo/nlw-setup',
+    web: 'https://daniloazeveedo.github.io/nlw-setup/',
     description:
-      'Podcastr é uma plataforma construída para transmissão de podcast. Com opção de escolha de um determinado podcast e ainda podendo ver os detalhes de um podcast como a data de sua publicação, o assunto dele assim como uma breve descrição e seus participates.',
+      'O Habits é um app para monitoramento de tarefas diárias para auxiliar seus usuários a rastrear suas atividades realizadas e não realizadas.',
     tags: [
       {
-        name: 'Next JS',
-        icon: '/skills/next-js.svg',
+        name: 'HTML',
+        icon: '/skills/html.svg',
         color: '#FFFFFF',
         rgb: '255, 255, 255'
       },
       {
-        name: 'TypeScript',
-        icon: '/skills/typescript.svg',
+        name: 'CSS',
+        icon: '/skills/css.svg',
         color: '#3178C6',
         rgb: '49, 120, 198'
       },
       {
-        name: 'Sass',
-        icon: '/skills/sass.svg',
+        name: 'JS',
+        icon: '/skills/javascript.svg',
         color: '#CC6699',
         rgb: '204, 102, 153'
       }
@@ -382,95 +382,31 @@ const projects = [
       {
         name: 'Home',
         description:
-          'Pagina inicial que mostra os podcast em destaque e ao lado o player onde pode selecionar e escutar um determinado podcast.',
-        img: '/projects/podcastr/podcastr-home.png'
+          'Pagina inicial que mostra os habitos sendo criados durante o dia a dia.',
+        img: '/projects/podcastr/web-demo.gif'
       },
       {
-        name: 'Lista de Podcast',
+        name: 'Novo habito',
         description:
-          'Segunda parte da pagina inicial que mostra todos os podcasts.',
-        img: '/projects/podcastr/podcastr-home-2.png'
+          'Criando um novo habito.',
+        img: '/projects/podcastr/web-day.png'
       },
       {
         name: 'Detalhes',
         description:
-          'Pagina de detalhes onde mostra os detalhes de um determinado podcast como a data que foi publicado, seus participates e um breve descrição dos temas abordados.',
-        img: '/projects/podcastr/podcastr-detail.png'
+          'Os habitos que foram concluidos durante a semana, estão agora marcados.',
+        img: '/projects/podcastr/web-home.png'
       }
     ],
     status: 'Completo',
     year: '2022',
-    gif: '/projects/podcastr/podcastr.mp4',
-    backgroundImage: '/projects/podcastr/podcastr-home.png',
+    gif: '/projects/podcastr/web-demo.gif',
+    backgroundImage: '/projects/podcastr/web-home.png',
     video:
       'https://www.youtube.com/watch?v=a_OoBSceC80&ab_channel=EvanderIn%C3%A1cio'
   },
 
-  {
-    id: 6,
-    url: 'github-blog',
-    banner: '/projects/github-blog/github-blog-home.png',
-    img: '/projects/github-blog/github-blog-home.png',
-    title: 'Github Blog',
-    type: 'Website',
-    icon: '/projects/github-blog/logo.svg',
-    github: 'https://github.com/EvanderInacio/Github-Blog',
-    web: 'https://github-blog-evander.vercel.app/',
-    description:
-      'Github Blog é um website que simula um blog, pegando os dados da api do Github atravez de issues do proprio repositorio onde o projeto foi construido e assim ele exibe em forma de lista podendo pesquisar pelo o nome e ver os detalhes de cada publicação.',
-    tags: [
-      {
-        name: 'Next JS',
-        icon: '/skills/next-js.svg',
-        color: '#FFFFFF',
-        rgb: '255, 255, 255'
-      },
-      {
-        name: 'TypeScript',
-        icon: '/skills/typescript.svg',
-        color: '#3178C6',
-        rgb: '49, 120, 198'
-      },
-      {
-        name: 'Stitches',
-        icon: '/skills/stitches.svg',
-        color: '#FFFFFF',
-        rgb: '255, 255, 255'
-      }
-    ],
-    print: [
-      {
-        name: 'Home',
-        description:
-          'Pagina inicial mostra dados do usuário a quem ela está atrelado usando a api do github, ela trás dados como o nome e a foto do usuário do github, assim o numero de seguidores e a descrição.',
-        img: '/projects/github-blog/github-blog-home.png'
-      },
-      {
-        name: 'Blog Lista',
-        description:
-          'Segunda parte da pagina inicial lista as postagens publicadas através de issues do repositório github onde ela está atrelado, utilizando a própria api do github para buscar esses dados.',
-        img: '/projects/github-blog/github-blog-home-2.png'
-      },
-      {
-        name: 'Detalhes',
-        description:
-          'Pagina de detalhes atrás a informação completa postada em uma determinada issues, mostrando como se fosse um blog.',
-        img: '/projects/github-blog/github-blog-detail.png'
-      },
-      {
-        name: 'Detalhes Images',
-        description:
-          'Segunda parte da pagina de detalhes mostrando a possibilidade de exibir imagens.',
-        img: '/projects/github-blog/github-blog-detail-2.png'
-      }
-    ],
-    status: 'Completo',
-    year: '2022',
-    gif: '/projects/github-blog/github-blog.mp4',
-    backgroundImage: '/projects/github-blog/github-blog-home.png',
-    video:
-      'https://www.youtube.com/watch?v=RcKQNz0n6Ts&ab_channel=EvanderIn%C3%A1cio'
-  },
+  
 
   {
     id: 7,
