@@ -30,7 +30,7 @@ export function CV() {
           
           <Curriculum>
             <img src="/cv.png" alt="Homem mostrando um botão de download de currículo" />
-            <a href="/pdf/Evander-CV.pdf" download>
+            <a href="/pdf/Danilo-CV.pdf" download>
               <ButtonSecondAlt>
                 <b>Download CV</b> <FiDownload size={20}  />
               </ButtonSecondAlt>

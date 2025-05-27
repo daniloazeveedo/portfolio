@@ -10,7 +10,7 @@ import { BsFileText } from 'react-icons/bs'
 
 export default function Resume() {
   const resumeData =
-    'https://www.canva.com/design/DAFTFxhLLPw/ddljelrvwHm5zBTlNywJMQ/edit?utm_content=DAFTFxhLLPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
+    'https://www.canva.com/design/DAFEebENJao/ZegiOSA0ULnFAJpI3FhdEA/edit?utm_content=DAFEebENJao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 
   const previewData = `${resumeData.substr(
     0,
@@ -25,7 +25,7 @@ export default function Resume() {
           name="description"
           content="Aqui você poderá ver ou baixar o meu currículo."
         />
-        <meta property="og:title" content="Resume | EDanilo Azevedo" />
+        <meta property="og:title" content="Resume | Danilo Azevedo" />
         <meta
           property="og:description"
           content="Aqui você poderá ver ou baixar o meu currículo."
